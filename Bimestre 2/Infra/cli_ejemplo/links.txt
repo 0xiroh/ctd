@@ -1,0 +1,26 @@
+index.html:<link rel="canonical" href="https://www.digitalhouse.com">
+index.html:<link rel="alternate" href="https://www.digitalhouse.com/ar/" hreflang="es-AR" />
+index.html:<link rel="alternate" href="https://www.digitalhouse.com/br/" hreflang="pt-BR" />
+index.html:<link rel="alternate" href="https://www.digitalhouse.com" hreflang="x-default" />
+index.html:<link rel="stylesheet" href="/ar/flickity/flickity.css">
+index.html:<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">
+index.html:<link href="https://fonts.googleapis.com/css?family=Montserrat:700,800" rel="stylesheet">
+index.html:<link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
+index.html:<link rel="stylesheet" href="/ar/assets/css/app.min.css">
+index.html:<link rel="stylesheet" href="/ar/assets/css/tw.min.css">
+index.html:<link name="Material Design" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+index.html:<link name="Font Awesome" rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+index.html:<link name="Banderas Paises" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.min.css">
+mipagina.html:<link rel="canonical" href="https://www.digitalhouse.com">
+mipagina.html:<link rel="alternate" href="https://www.digitalhouse.com/ar/" hreflang="es-AR" />
+mipagina.html:<link rel="alternate" href="https://www.digitalhouse.com/br/" hreflang="pt-BR" />
+mipagina.html:<link rel="alternate" href="https://www.digitalhouse.com" hreflang="x-default" />
+mipagina.html:<link rel="stylesheet" href="/ar/flickity/flickity.css">
+mipagina.html:<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,800" rel="stylesheet">
+mipagina.html:<link href="https://fonts.googleapis.com/css?family=Montserrat:700,800" rel="stylesheet">
+mipagina.html:<link href="https://fonts.googleapis.com/css?family=Roboto:500" rel="stylesheet">
+mipagina.html:<link rel="stylesheet" href="/ar/assets/css/app.min.css">
+mipagina.html:<link rel="stylesheet" href="/ar/assets/css/tw.min.css">
+mipagina.html:<link name="Material Design" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+mipagina.html:<link name="Font Awesome" rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+mipagina.html:<link name="Banderas Paises" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/3.3.0/css/flag-icon.min.css">

@@ -1,0 +1,12 @@
+#contenedor{
+    display: flex;
+}
+
+.tarjeta{
+    width: 33%;
+}
+
+img{
+    width: 100%;
+    border: 1px;
+}

@@ -1,0 +1,14 @@
+main {
+    width: 80%;
+    margin: 0 auto;
+    background-color: red;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+}
+
+li {
+    display: inline-block;
+}

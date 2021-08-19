@@ -1,0 +1,4 @@
+total 0
+drwxr-xr-x  3 tincho  staff   96 Jun 13 19:33 dir1
+drwxr-xr-x  3 tincho  staff   96 Jun 13 19:32 dir2
+drwxr-xr-x  4 tincho  staff  128 Jun 13 19:33 dir3
