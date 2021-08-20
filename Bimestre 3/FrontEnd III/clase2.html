@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Stock en verdulería</title>
+  </head>
+  <body>
+    <script
+      crossorigin
+      src="https://unpkg.com/react@17/umd/react.development.js"
+    ></script>
+    <script
+      crossorigin
+      src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"
+    ></script>
+    <script crossorigin src="https://unpkg.com/babel-standalone@6/babel.min.js"></script> 
+
+    <div id="root"></div>
+
+    <script type="text/babel">
+      function Element(){
+        return (
+          <div>
+            <h1>Lista de productos en stock:</h1>
+            <ul>
+                    <li key={1}>Manzana</li>
+                    <li key={2}>Pera</li>
+                    <li key={3}>Naranja</li>
+                    <li key={4}>Banana</li>
+                    <li key={5}>Kiwi</li>
+            </ul>
+            <H1 />
+            <ListaPF />
+          </div>
+        )
+      }
+      
+      function H1(){
+        return (
+          <h1>Lista de productos en falta:</h1>
+        )
+      }
+      function ListaPF(){
+          return (
+            <ul>
+                <li key={1}>Durazno</li>
+                <li key={2}>Cereza</li>
+                <li key={3}>Anana</li>
+           </ul>
+          )
+      }
+      ReactDOM.render(<Element/>, document.getElementById("root"));
+      
+
+    </script>  
+  </body>
+</html>
+
